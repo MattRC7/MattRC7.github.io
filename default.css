@@ -1,0 +1,44 @@
+/* Default style for http://MattRC7.github.io */
+
+body {
+    background-color: rgb(186,220,255);
+    width: 90%;
+    font-family: "Palatino Linotype",
+	"Book Antiqua", Palatino, serif;
+    font-size: 100%;
+}
+
+h1, h2, h3 {
+    background-color: rgb(248,253,256);
+    border-style: none none solid none;
+    border-width: 4px;
+    border-color: rgb(96, 128, 255);
+    padding: 0px 6px;
+}
+
+h3 {
+    background-color: inherit;
+    border-width: 2px;
+}
+
+img {
+    float: left;
+    padding: 0px 12px;
+}
+
+.menu a {
+    font-size: 1.1em;
+    font-weight: bold;
+    background-color: rgb(230,250,255);
+    border-style: dotted;
+    border-width: 2px;
+    border-color: blue;
+}
+
+p {
+    text-indent: 24px;
+}
+
+p li {
+    font-size: 0.9em;
+}
