@@ -1,0 +1,11 @@
+
+
+.menu a {
+    font-size: 1.1em;
+    font-weight: bold;
+    background-color: rgb(230,250,255);
+    border-style: dotted;
+    border-width: 2px;
+    border-color: blue;
+}
+

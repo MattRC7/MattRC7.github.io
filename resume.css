@@ -1,6 +1,30 @@
 /* additional styles for resume sections */
 
 .resume_block {
+    float: left;
+    clear: right;
+    margin: 4px 0px 8px 4px;
+    padding: 0px;
     width: 90%;
     max-width: 750px;
+    background-color: white;
+}
+
+.resume_block h2 {
+    border-left: solid;
+    margin: 0px;
+}
+
+.resume_block h3 {
+    margin: 4px 0px 0px 4px;
+    width: 50%;
+}
+
+.resume_block p {
+    margin: 16px 0px;
+    padding: 0px 0px 0px 8px;
+}
+
+.resume_block li {
+    font-size: 0.85em;
 }
