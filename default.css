@@ -10,7 +10,7 @@ body {
 }
 
 h1, h2, h3 {
-    background-color: rgb(256,256,256);
+    background-color: white;
     border-style: none none solid none;
     border-width: 4px;
     border-color: rgb(96, 128, 255);

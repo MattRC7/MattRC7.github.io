@@ -1,7 +1,7 @@
 /* Defines the style and positioning of the menu on the website */
 
 .menu {
-    background-color: rgb(256,256,256);
+    background-color: white;
     border-style: solid;
     border-width: 4px;
     border-color: rgb(96, 128, 255);
