@@ -10,12 +10,17 @@ body {
 }
 
 h1, h2, h3 {
-    background-color: rgb(248,253,256);
+    background-color: rgb(256,256,256);
     border-style: none none solid none;
     border-width: 4px;
     border-color: rgb(96, 128, 255);
     margin: 4px;
     padding: 0px 6px;
+}
+
+h1 {
+    padding: 0 10%;
+    float: left;
 }
 
 h3 {
@@ -24,14 +29,23 @@ h3 {
 }
 
 p {
-    max-width: 1000px;
     padding: 4px;
     margin: 4px;
 }
 
+#handle {
+    font-family: "Times New Roman", Serif;
+    font-weight: bold;
+    font-size: 2em;
+}
+
 img {
     float: left;
-    clear: right;
     margin: 4px;
+}
+
+div.floater {
+    max-width: 50%;
+    float: left;
 }
 

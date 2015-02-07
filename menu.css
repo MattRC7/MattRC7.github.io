@@ -1,19 +1,25 @@
 /* Defines the style and positioning of the menu on the website */
 
 .menu {
-    background-color: rgb(248,253,256);
+    background-color: rgb(256,256,256);
     border-style: solid;
     border-width: 4px;
     border-color: rgb(96, 128, 255);
     float: left;
-    height: 200%;
-    padding: 2px;
+    clear: left;
+    padding: 2px 2px 50%;
     margin: 4px 8px 4px 4px;
 }
 
 ul.menu {
     list-style-type: none;
     list-style-position: inside;
+}
+
+.menu a {
+    text-decoration: none;
+    color: black;
+    font-family: Helvetica;
 }
 
 .menu a:link {

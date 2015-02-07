@@ -1,12 +1,9 @@
 /* additional styles for resume sections */
 
 .resume_block {
-    float: left;
-    clear: right;
+    float: none;
     margin: 4px 0px 8px 4px;
-    padding: 0px;
-    width: 90%;
-    max-width: 750px;
+    padding: 0px 20% 2px 0px;
     background-color: white;
 }
 
