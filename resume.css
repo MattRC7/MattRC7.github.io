@@ -25,3 +25,7 @@
 .resume_block li {
     font-size: 0.85em;
 }
+
+.resume_block .emphasis {
+    font-style: italic;
+}
